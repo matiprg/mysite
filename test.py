@@ -1,5 +1,2 @@
-def random():
-    tes=random.randint(1,10)
-    return tes
-
-print (random())
+import random
+print(random.randint(1,10))

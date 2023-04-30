@@ -1,5 +1,4 @@
-def random():
-    tes=random.randint(1,10)
-    return tes
+import random
+print(random.randint(1,10)) 
+#hi
 
-print (random())
